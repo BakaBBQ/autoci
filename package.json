@@ -1,0 +1,22 @@
+{
+  "name": "autoci",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BakaBBQ",
+  "license": "Unlicense",
+  "dependencies": {
+    "async": "^1.5.0",
+    "chalk": "^1.1.1",
+    "cheerio": "^0.19.0",
+    "coffee-script": "^1.10.0",
+    "jsonfile": "^2.2.3",
+    "readline-sync": "^1.2.21",
+    "shelljs": "^0.5.3",
+    "sugar": "^1.4.1",
+    "swig": "^1.4.2"
+  }
+}
